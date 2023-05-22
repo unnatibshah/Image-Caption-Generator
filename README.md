@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1 align="center">Fake News Detection</h1>
+<h1 align="center">Image Caption Generator/h1>
   <p align="center">
 <!--     An awesome README template to jumpstart your projects! -->
 <!--     <br /> -->
